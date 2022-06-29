@@ -17,4 +17,5 @@ public class Puffin implements Animal, CanSwim, CanFly {
     public void makeSound() {
         System.out.println("Puffin goes brau, brau");
     }
+
 }
